@@ -8,7 +8,7 @@
         },
         "characterIndex": 3,
         "characterName": "Vehicle",
-        "startMapId": 0,
+        "startMapId": 1,
         "startX": 0,
         "startY": 0
     },
@@ -94,8 +94,8 @@
         },
         "characterIndex": 0,
         "characterName": "Vehicle",
-        "startMapId": 0,
-        "startX": 0,
+        "startMapId": 1,
+        "startX": 1,
         "startY": 0
     },
     "currencyUnit": "G",
@@ -149,7 +149,7 @@
     "optDrawTitle": true,
     "optExtraExp": false,
     "optFloorDeath": true,
-    "optFollowers": true,
+    "optFollowers": false,
     "optSideView": false,
     "optSlipDeath": true,
     "optTransparent": false,
@@ -168,8 +168,8 @@
         },
         "characterIndex": 1,
         "characterName": "Vehicle",
-        "startMapId": 0,
-        "startX": 0,
+        "startMapId": 1,
+        "startX": 2,
         "startY": 0
     },
     "skillTypes": [
@@ -324,8 +324,8 @@
         }
     ],
     "startMapId": 1,
-    "startX": 8,
-    "startY": 6,
+    "startX": 4,
+    "startY": 0,
     "switches": [
         "",
         "",
