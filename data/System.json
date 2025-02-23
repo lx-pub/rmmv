@@ -150,7 +150,7 @@
     "optExtraExp": false,
     "optFloorDeath": true,
     "optFollowers": false,
-    "optSideView": false,
+    "optSideView": true,
     "optSlipDeath": true,
     "optTransparent": false,
     "partyMembers": [
